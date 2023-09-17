@@ -15,14 +15,20 @@
 
 <h2 id="project"> Projeto</h2>
 
-Neste projeto trabalhamos com inteligência Artificial onde gerar títulos e descrições para vídeos do YouTube.
+Neste projeto trabalhamos com inteligência Artificial onde geramos títulos e descrições para vídeos do YouTube.
 
 <h2> Tecnologias</h2>
 
 Abaixo as tecnologias que utilizamos para o desenvolvimento do projeto:
 
 > Frontend
- - 
+ - React
+ - Typescript
+ - Tailwind CSS
+ - Axios
+ - Vite
+ - FFmpeg
+ - Shadcn UI
 
 > Backend
  - Node.js
