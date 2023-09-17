@@ -3,10 +3,10 @@
 > Trilha Mastery da NLW IA da Rocketseat.
 
 <p align="center">
-  <a href="">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="">Rodar projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="">Licença</a>
+  <a href="#project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technology">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#usage">Rodar projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license">Licença</a>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ Neste projeto trabalhamos com inteligência Artificial onde geramos títulos e d
 
 <img src=".previews/preview.png" />
 
-<h2> Tecnologias</h2>
+<h2 id="technology"> Tecnologias</h2>
 
 Abaixo as tecnologias que utilizamos para o desenvolvimento do projeto:
 
