@@ -93,7 +93,7 @@ $ npm run dev
 
 ⚠️ Importante: Crie um arquivo .env na raiz da pasta `nlw-ai-backend` no campo DATABASE_URL, especificar a URL do banco de dados que deseja utilizar. Crie sua conta na [OpenAI](https://openai.com/), obtenha sua chave da API e preencha o campo OPENAI_KEY com a sua chave.
 
-<h2 align="license"> Licença</h2>
+<h2 id="license"> Licença</h2>
 
 Este projeto está sob a licença MIT.
 
