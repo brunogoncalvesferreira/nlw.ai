@@ -38,7 +38,7 @@ Abaixo as tecnologias que utilizamos para o desenvolvimento do projeto:
  - Fastify
  - Dotenv
  - Zod
- - OpenA
+ - OpenAI
  - Prisma
 
 <h2 id="usage"> Rodar projeto</h2>
