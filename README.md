@@ -17,6 +17,8 @@
 
 Neste projeto trabalhamos com inteligência Artificial onde geramos títulos e descrições para vídeos do YouTube.
 
+<img src=".previews/preview.png" />
+
 <h2> Tecnologias</h2>
 
 Abaixo as tecnologias que utilizamos para o desenvolvimento do projeto:
