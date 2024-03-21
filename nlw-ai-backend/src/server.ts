@@ -16,8 +16,6 @@ app.register(uploadVideoRoute)
 app.register(createTranscriptionRoute)
 app.register(generateAICompletionRoute)
 
-
-
 app.listen({
   port: 3333,
 }).then(() => {
